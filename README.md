@@ -2,7 +2,7 @@
 
 *Bu veb sayt shunchaki test uchun chiqarilgan desa ham bo'ladi. Dasturchi sifatida har bir dasturchining malumotlari kichik bir static saytda saqlanishi kerak deb o'ylayman*
 
-**U.Ibrohimov**
+**U.Ibrohimov** (*bu gapdan kora ozi Lorem text qoyishim kerak edi -_-*)
 
 Tashrif buyuring: 
 - [ubaydullo.uz](https://ubaydullo.uz)
